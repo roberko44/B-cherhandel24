@@ -1,0 +1,17 @@
+Status überprüfen:
+git status
+
+Alles Lokale verwerfen:
+git stash
+
+Alle Änderungen akzeptieren:
+git add --a
+
+Kommentar zur Änderung anhängen:
+git commit -m "Hier habe ich etwas geändert."
+
+Änderungen pushen auf das zentrale Repo:
+git push
+
+Änderungen holen:
+git pull
