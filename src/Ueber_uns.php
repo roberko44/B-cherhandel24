@@ -36,7 +36,7 @@ class Ueber_uns extends Page
 
         <div id="content">
         <h1> Über uns</h1>
-        Wir von Finanzstudi GbR wollen den Nutzern ein Bücherarchiv zur Verfügung stellen, in denen
+        Wir von Bücherhandel24 wollen den Nutzern ein Bücherarchiv zur Verfügung stellen, in denen
         sie alles über die Themen Wirtschaft, Finanzen und Investieren erfahren. </br>
         Die Seite soll jungen Menschen wie Schülern, Auszubildenden und Studenten aufmerksam auf das
         Thema Geld und sparen machen. </br>

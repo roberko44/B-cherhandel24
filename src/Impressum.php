@@ -36,13 +36,13 @@ class Impressum extends Page
 
         <div id="content">
         <h1> Impressum </h1>
-        <h2> Finanzstudi GbR </h2>
+        <h2> Bücherhandel24 GmbH </h2>
             
             <p> Kasinostr. 85 </br>
             64293 Darmstadt </br>
-            E-Mail: info@finanzstudi.de </br>
-            www: https://www.finanzstudi.de </br>
-            Vertretungsberechtigter Geschäftsführer: Dilara Köten & Zernab Zeervi </br>
+            E-Mail: info@buecherhandel24.de </br>
+            www: https://www.buecherhandel24.de </br>
+            Vertretungsberechtigter Geschäftsführer: Hauke Winkler </br>
             HRB 167263 </br>
             Amtsgericht Darmstadt </p>
             
