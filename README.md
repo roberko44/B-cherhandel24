@@ -1,4 +1,4 @@
-# Finanzstudi
+# Bücherhandel24
 
 Wir wollen den Nutzern ein Bücherarchiv zur Verfügung stellen, in denen
 sie alles über die Themen Wirtschaft, Finanzen und Investieren erfahren. Die Seite soll
